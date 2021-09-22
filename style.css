@@ -10,7 +10,7 @@
 .container {
     width: 100vw;
     height: 100vh;
-    background-image: url(/Launching_page_img/images/background.png);
+    background-image: url(background.png);
     background-position:center;
     background-size:cover;
     padding:0 8%;
