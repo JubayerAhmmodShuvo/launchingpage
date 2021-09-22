@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+     font-family: 'poppins', sans-serif;
+     box-sizing: border-box;
+
+    
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/Launching_page_img/images/background.png);
+    background-position:center;
+    background-size:cover;
+    padding:0 8%;
+
+    }
+
+.logo{
+    width: 120px;
+    padding: 20px 0;
+    cursor: pointer;
+    
+}
